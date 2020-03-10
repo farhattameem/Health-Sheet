@@ -1,0 +1,31 @@
+p {
+  font-family: sans-serif;
+}
+body{
+  background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
+}
+head{
+  background: white;
+}
+title{
+  color: white;
+}
+h1{
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+li {
+  color: white;
+}
