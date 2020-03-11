@@ -10,22 +10,43 @@ head{
 title{
   color: white;
 }
-h1{
+h1, h2, a, p, li{
   color: white;
+  font-family: Arial;
 }
 
-h2 {
-  color: white;
+input{
+  height: 30px
+
 }
 
-a {
-  color: white;
+.risk {
+  text-align: justify;
+  list-style-position: inside;
+  margin-right: 200px;
+  margin-left: 950px;
+  margin-bottom: 400px;
+  margin-top: 0px;
+  position: fixed;
 }
 
-p {
-  color: white;
+.factors{
+    margin-top: -50px;
+    position: fixed;
+    margin-bottom: 200px;
+    margin-right:200px;
+    margin-left:1050px;
+  }
+
+.symptoms{
+  margin-right: 450px;
+
 }
 
-li {
-  color: white;
+.text{
+  margin-top:-20px;
+  margin-bottom: -10px;
+  margin-left:980px;
+  margin-right:200px;
+  position:fixed;
 }
